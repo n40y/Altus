@@ -1,5 +1,8 @@
 # Altus - Cloud Risk Visualizer
 
+[![Go Version](https://img.shields.io/github/go-mod/go-version/n40y/cloudexec)](https://go.dev/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Altus est un outil de cartographie et d'audit de sécurité multi-cloud. Il permet de scanner des infrastructures, de détecter les vecteurs d'attaque critiques (exposition publique, chemins d'élévation de privilèges IAM) et de les visualiser sous forme de graphe interactif orienté (Blast Radius).
 
 ## Interface web Neo4j
