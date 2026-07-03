@@ -2,6 +2,12 @@
 
 Altus est un outil de cartographie et d'audit de sécurité multi-cloud. Il permet de scanner des infrastructures, de détecter les vecteurs d'attaque critiques (exposition publique, chemins d'élévation de privilèges IAM) et de les visualiser sous forme de graphe interactif orienté (Blast Radius).
 
+## Interface web Neo4j
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ca7def2-f709-4463-a866-e117c84f1d27" alt="Interface Altus" width="800">
+</p>
+
 ## 🚀 Architecture de l'application
 
 L'outil est structuré en Monorepo :
