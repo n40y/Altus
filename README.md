@@ -85,3 +85,6 @@ go run main.go
 - Privilege Escalation (PrivEsc) : Analyse les chemins de permissions IAM critiques permettant à un utilisateur d'obtenir des privilèges **AdministratorAccess** (relation **CAN_ESCALATE_TO**).
 
 - Blast Radius Analysis : Cliquez sur un nœud dans l'interface graphique pour mettre en évidence toutes ses relations directes et indirectes de compromission.
+
+## 🔍 Keywords
+`cloud-security` `cybersecurity` `attack-path-analysis` `neo4j` `fastapi` `golang` `devsecops` `cloud-audit` `blast-radius`
